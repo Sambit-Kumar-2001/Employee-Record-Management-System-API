@@ -1,4 +1,3 @@
-# 9dotTask
 # Employee Record Management System
 
 A clean, scalable ASP.NET Core Web Application for managing Employee Records using Repository Pattern and PostgreSQL. This application supports full CRUD operations along with image upload, custom validation, and reporting.
